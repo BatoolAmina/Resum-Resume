@@ -91,6 +91,7 @@ header {
 }
 
 .logo {
+    margin:0;
     font-size: 28px; 
     font-weight: bold; 
     transition: color 0.3s;
